@@ -32,6 +32,12 @@ I'm an embedded systems enthusiast passionate about low-level programming, light
 *   📝 查看我的博客: [blog](https://n1netynine99.netlify.app/)
 *   B站 [bilibili](https://space.bilibili.com/97101368)
 
+---
+
+### 📊 本周开发数据 | This Week I Spent My Time On
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **00lllooolll00/00lllooolll00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
