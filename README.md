@@ -9,22 +9,39 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const developer = {
-    pronouns: "He" | "Him",
-    code: ["C", "Embedded C"],
-    askMeAbout: ["embedded systems", "MCU", "FreeRTOS", "LVGL"],
-    technologies: {
-        embedded: ["STM32", "51 MCU", "FreeRTOS", "LVGL"],
-        tools: ["Git", "Linux", "VSCode"],
-        currentFocus: ["Lightweight C Libraries", "Embedded GUI", "RTOS"]
+```c
+typedef struct {
+    const char* pronouns;                    // "He" | "Him"
+    const char* code[2];                     // {"C", "Embedded C"}
+    const char* askMeAbout[4];              // {"embedded systems", "MCU", "FreeRTOS", "LVGL"}
+    
+    struct {
+        const char* embedded[4];             // {"STM32", "51 MCU", "FreeRTOS", "LVGL"}
+        const char* tools[3];                // {"Git", "Linux", "VSCode"}
+        const char* currentFocus[3];         // {"Lightweight C Libraries", "Embedded GUI", "RTOS"}
+    } technologies;
+    
+    const char* architecture[2];             // {"Embedded Cross-Platform Framework", "Lightweight Library Design"}
+    const char* currentProjects[2];          // {"NN_Key - Lightweight key handling library", 
+                                             //  "EmbeddedKit - Cross-platform embedded framework"}
+    const char* funFact;                     // "There are two ways to write error-free programs; only the third one works"
+} Developer_t;
+
+Developer_t developer = {
+    .pronouns = "He | Him",
+    .code = {"C", "Embedded C"},
+    .askMeAbout = {"embedded systems", "MCU", "FreeRTOS", "LVGL"},
+    .technologies = {
+        .embedded = {"STM32", "51 MCU", "FreeRTOS", "LVGL"},
+        .tools = {"Git", "Linux", "VSCode"},
+        .currentFocus = {"Lightweight C Libraries", "Embedded GUI", "RTOS"}
     },
-    architecture: ["Embedded Cross-Platform Framework", "Lightweight Library Design"],
-    currentProjects: [
+    .architecture = {"Embedded Cross-Platform Framework", "Lightweight Library Design"},
+    .currentProjects = {
         "NN_Key - Lightweight key handling library",
         "EmbeddedKit - Cross-platform embedded framework"
-    ],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    },
+    .funFact = "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
