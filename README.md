@@ -1,40 +1,49 @@
-## Hi there, I'm 00lllooolll00! 👋
+<h2>Hi there 👋, I'm 00lllooolll00! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Embedded Systems Developer & Low-Level Programming Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-我是一名热衷于 **嵌入式开发** 和 **底层技术** 的开发者。我喜欢编写轻量级的 C 语言库，并探索单片机与图形界面的结合。
+![GitHub followers](https://img.shields.io/github/followers/00lllooolll00?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=00lllooolll00.00lllooolll00)
+![Waka Readme](https://github.com/00lllooolll00/00lllooolll00/workflows/Waka%20Readme/badge.svg)
 
-I'm an embedded systems enthusiast passionate about low-level programming, lightweight C libraries, and MCU GUI development.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### 🛠️ 技术栈 | Tech Stack
-*   **Languages:** C
-*   **Embedded:** 32, 51 MCU (Lanqiao Cup)
-*   **Systems & Tools:** FreeRTOS, LVGL, Linux
-*   **Workflow:** Git, Dotfiles
+```javascript
+const developer = {
+    pronouns: "He" | "Him",
+    code: ["C", "Embedded C"],
+    askMeAbout: ["embedded systems", "MCU", "FreeRTOS", "LVGL"],
+    technologies: {
+        embedded: ["STM32", "51 MCU", "FreeRTOS", "LVGL"],
+        tools: ["Git", "Linux", "VSCode"],
+        currentFocus: ["Lightweight C Libraries", "Embedded GUI", "RTOS"]
+    },
+    architecture: ["Embedded Cross-Platform Framework", "Lightweight Library Design"],
+    currentProjects: [
+        "NN_Key - Lightweight key handling library",
+        "EmbeddedKit - Cross-platform embedded framework"
+    ],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-### 🔭 我目前正在做的事情 | I'm currently working on ...
-*   优化嵌入式工具库，例如 **[NN_Key](https://github.com/00lllooolll00/NN_Key)** (一个轻量级按键处理库)。
-*   嵌入式跨平台框架，**[EmbeddedKit](https://github.com/EmbeddedKitOrg/EmbeddedKit)**
-
-### 📚 精选项目 | Featured Projects
-| 项目 | 描述 | 技术栈 |
+### 📚 Featured Projects
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[NN_Key](https://github.com/00lllooolll00/NN_Key)** | 适用于单线程环境的轻量级嵌入式按键库 | C, Embedded |
 | **[EmbeddedKit](https://github.com/EmbeddedKitOrg/EmbeddedKit)** | 嵌入式跨平台架构 | C, FreeRTOS, LVGL |
 | **[LanqiaoCup_MCU_Template](https://github.com/00lllooolll00/LanqiaoCup_MCU_Template)** | 蓝桥杯单片机组备赛通用模板 | C, 51 MCU |
 | **[Base-Convert](https://github.com/00lllooolll00/Base-Convert)** | 一个简单的命令行进制转换工具 | C |
 
-### 🌱 我正在学习 | I'm currently learning ...
-*   深入理解 **FreeRTOS** 内核机制
-*   高级 **LVGL** 界面设计与优化
-*   更高效的嵌入式软件架构设计
-
-### 📫 联系我 | Connect with me
+### 📫 Connect with me
 *   💬 欢迎在我的仓库 Issues 中交流嵌入式技术
-*   📝 查看我的博客: [blog](https://n1netynine99.netlify.app/)
-*   B站 [bilibili](https://space.bilibili.com/97101368)
+*   📝 Blog: [n1netynine99.netlify.app](https://n1netynine99.netlify.app/)
+*   🎬 Bilibili: [space.bilibili.com/97101368](https://space.bilibili.com/97101368)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-
-### 📊 本周开发数据 | This Week I Spent My Time On
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2049%20mins-blue?style=flat)
 
@@ -112,6 +121,4 @@ Tree-sitter Query        1 repo              ███░░░░░░░░�
  Last Updated on 19/01/2026 02:58:50 UTC
 <!--END_SECTION:waka-->
 
-<!--
-**00lllooolll00/00lllooolll00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
