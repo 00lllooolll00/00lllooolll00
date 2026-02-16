@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-5.24%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -93,24 +93,24 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        7 hrs 48 mins       ███████████████████░░░░░░   77.38 % 
-CMake                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Makefile                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C                        7 hrs 51 mins       ███████████████████░░░░░░   77.44 % 
+CMake                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Makefile                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Linker Script            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-EmbeddedKit              2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-EK                       1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-stm32f429zi_discovery_kit1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-elab                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-lv_8_3_11                1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+EmbeddedKit              2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+stm32f429zi_discovery_kit1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+EK                       1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+elab                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+lv_8_3_11                1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 
 💻 操作系统: 
-Linux                    10 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -125,7 +125,7 @@ Tree-sitter Query        1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 03:27:46 UTC
+ Last Updated on 16/02/2026 03:25:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
