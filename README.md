@@ -93,24 +93,24 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        7 hrs 43 mins       ███████████████████░░░░░░   77.30 % 
-CMake                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Makefile                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Linker Script            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C                        6 hrs 43 mins       ███████████████████░░░░░░   77.31 % 
+CMake                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Makefile                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Linker Script            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 编辑器: 
-VS Code                  9 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-EmbeddedKit              2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-stm32f429zi_discovery_kit1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-EK                       1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-elab                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-lv_8_3_11                1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+EK                       1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+EmbeddedKit              1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+elab                     1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+lv_8_3_11                1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+stm32f429zi_discovery_kit1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 
 💻 操作系统: 
-Linux                    9 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -125,7 +125,7 @@ Tree-sitter Query        1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 03:20:47 UTC
+ Last Updated on 18/02/2026 03:23:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
