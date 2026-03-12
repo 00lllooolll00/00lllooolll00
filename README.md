@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.68%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -93,18 +93,22 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        58 mins             █████████████████████████   100.00 % 
+C                        1 hr 24 mins        ██████████████████████░░░   89.00 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 编辑器: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Tutor                    49 mins             █████████████████████░░░░   84.10 % 
-1，标准例程-IDF(v5.3.x)       9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-led_key                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Tutor                    49 mins             █████████████░░░░░░░░░░░░   52.39 % 
+1，标准例程-IDF(v5.3.x)       20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Unknown Project          13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+08_eeprom                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+07_xl9555                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 操作系统: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -119,7 +123,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2026 03:11:17 UTC
+ Last Updated on 12/03/2026 03:17:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
