@@ -93,21 +93,22 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        2 hrs 3 mins        ███████████████████████░░   92.13 % 
-CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+C                        2 hrs 49 mins       ████████████████████████░   94.06 % 
+CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-1，标准例程-IDF(v5.3.x)       1 hr 49 mins        █████████████████████░░░░   82.07 % 
-Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-08_eeprom                9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-07_xl9555                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+1，标准例程-IDF(v5.3.x)       1 hr 49 mins        ███████████████░░░░░░░░░░   61.06 % 
+01_WiFi_SCAN             32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+2，WiFi例程                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+08_eeprom                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 💻 操作系统: 
-Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -122,7 +123,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2026 03:40:31 UTC
+ Last Updated on 16/03/2026 03:44:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
