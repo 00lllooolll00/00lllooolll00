@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.68%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -93,22 +93,22 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        2 hrs 49 mins       ████████████████████████░   94.06 % 
-CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+C                        2 hrs 56 mins       ████████████████████████░   94.29 % 
+CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-1，标准例程-IDF(v5.3.x)       1 hr 49 mins        ███████████████░░░░░░░░░░   61.06 % 
-01_WiFi_SCAN             32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-2，WiFi例程                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-08_eeprom                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+1，标准例程-IDF(v5.3.x)       1 hr 49 mins        ███████████████░░░░░░░░░░   58.77 % 
+01_WiFi_SCAN             32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+2，WiFi例程                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+08_eeprom                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 操作系统: 
-Linux                    2 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -123,7 +123,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2026 03:44:08 UTC
+ Last Updated on 17/03/2026 03:19:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
