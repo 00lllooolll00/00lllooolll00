@@ -93,19 +93,19 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        2 hrs 1 min         █████████████████████████   99.76 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C                        53 mins             █████████████████████████   99.72 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-1，标准例程-IDF(v5.3.x)       1 hr 8 mins         ██████████████░░░░░░░░░░░   56.52 % 
-01_WiFi_SCAN             32 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-2，WiFi例程                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+01_WiFi_SCAN             32 mins             ███████████████░░░░░░░░░░   60.60 % 
+2，WiFi例程                 20 mins             ██████████░░░░░░░░░░░░░░░   38.86 % 
+1，标准例程-IDF(v5.3.x)       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 操作系统: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    53 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -120,7 +120,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 03:15:56 UTC
+ Last Updated on 21/03/2026 03:07:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
