@@ -93,16 +93,15 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        53 mins             █████████████████████████   99.72 % 
+C                        52 mins             █████████████████████████   99.72 % 
 CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 编辑器: 
 VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-01_WiFi_SCAN             32 mins             ███████████████░░░░░░░░░░   60.60 % 
-2，WiFi例程                 20 mins             ██████████░░░░░░░░░░░░░░░   38.86 % 
-1，标准例程-IDF(v5.3.x)       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+01_WiFi_SCAN             32 mins             ███████████████░░░░░░░░░░   60.93 % 
+2，WiFi例程                 20 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
 
 💻 操作系统: 
 Linux                    53 mins             █████████████████████████   100.00 % 
@@ -120,7 +119,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 03:07:49 UTC
+ Last Updated on 22/03/2026 03:26:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
