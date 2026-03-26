@@ -64,26 +64,26 @@ Developer_t developer = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.68%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.69%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-🌆 白天                     290 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌃 傍晚                     456 commits         ████████████░░░░░░░░░░░░░   49.40 % 
-🌙 晚上                     116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+🌞 早晨                     61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌆 白天                     292 commits         ████████░░░░░░░░░░░░░░░░░   31.57 % 
+🌃 傍晚                     456 commits         ████████████░░░░░░░░░░░░░   49.30 % 
+🌙 晚上                     116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-星期二                      135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-星期三                      112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-星期四                      134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-星期五                      166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-星期六                      130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-星期日                      148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+星期一                      98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+星期二                      135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+星期三                      114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+星期四                      134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+星期五                      166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+星期六                      130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+星期日                      148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 ```
 
 
@@ -93,16 +93,18 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Python                   18 mins             █████████████░░░░░░░░░░░░   50.41 % 
+C                        18 mins             ████████████░░░░░░░░░░░░░   49.59 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+2025323697-code-四川轻化工大学  28 mins             ███████████████████░░░░░░   77.11 % 
+Unknown Project          8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Linux                    37 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -117,7 +119,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2026 03:24:27 UTC
+ Last Updated on 26/03/2026 03:36:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
