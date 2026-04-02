@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.73%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -93,24 +93,23 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        7 hrs 10 mins       ███████████████████████░░   91.56 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Linker Script            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+C                        6 hrs 51 mins       ████████████████████████░   95.19 % 
+Linker Script            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 48 mins       █████████████████████████   99.65 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  7 hrs 10 mins       █████████████████████████   99.61 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 项目: 
-2025323697-code-四川轻化工大学  3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-CIMC_2026                1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-ADC                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-SPI                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Master_transmitter&slave_24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+2025323697-code-四川轻化工大学  2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.09 % 
+CIMC_2026                1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+ADC                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+SPI                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Master_transmitter&slave_24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 操作系统: 
-Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -126,7 +125,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 03:50:36 UTC
+ Last Updated on 02/04/2026 03:32:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
