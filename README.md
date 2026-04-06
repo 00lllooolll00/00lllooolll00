@@ -62,28 +62,28 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.73%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-9.16%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-🌆 白天                     297 commits         ████████░░░░░░░░░░░░░░░░░   31.40 % 
-🌃 傍晚                     470 commits         ████████████░░░░░░░░░░░░░   49.68 % 
-🌙 晚上                     116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌞 早晨                     66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+🌆 白天                     309 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+🌃 傍晚                     480 commits         ████████████░░░░░░░░░░░░░   49.28 % 
+🌙 晚上                     119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-星期二                      135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-星期三                      114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-星期四                      141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-星期五                      174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-星期六                      133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-星期日                      150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+星期一                      101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+星期二                      136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+星期三                      116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+星期四                      144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+星期五                      179 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+星期六                      136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+星期日                      162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 ```
 
 
@@ -93,22 +93,21 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        5 hrs 5 mins        ████████████████████████░   97.34 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+C                        2 hrs 48 mins       ████████████████████████░   96.22 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 12 mins       █████████████████████████   99.47 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-2025323697-code-四川轻化工大学  2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
-ADC                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-RTC                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-USART                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Auto_wakeup              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+2025323697-code-四川轻化工大学  40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+ADC                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+USART                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Auto_wakeup              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+DMA                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 操作系统: 
-Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -124,7 +123,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2026 03:43:32 UTC
+ Last Updated on 06/04/2026 03:47:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
