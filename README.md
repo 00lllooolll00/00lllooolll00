@@ -93,21 +93,23 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        2 hrs 48 mins       ████████████████████████░   96.22 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+C                        2 hrs 14 mins       ████████████████████████░   94.46 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-2025323697-code-四川轻化工大学  40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-ADC                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-USART                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Auto_wakeup              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-DMA                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+ADC                      37 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+2025323697-code-四川轻化工大学  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Auto_wakeup              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+FMC                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Key_external_interrupt_mo12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 💻 操作系统: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -123,7 +125,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2026 03:47:18 UTC
+ Last Updated on 07/04/2026 03:38:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
