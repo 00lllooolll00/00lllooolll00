@@ -93,24 +93,24 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    5 hrs 20 mins       █████████████░░░░░░░░░░░░   52.24 % 
-C                        3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Other                    5 hrs 1 min         █████████████░░░░░░░░░░░░   53.89 % 
+C                        3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-CIMC_2026                7 hrs 14 mins       ██████████████████░░░░░░░   70.87 % 
-Fee5_CMake               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-PMU                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-DAC                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Program_erase            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+CIMC_2026                7 hrs 11 mins       ███████████████████░░░░░░   77.27 % 
+Fee5_CMake               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+DAC                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Program_erase            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+fat_fs                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 操作系统: 
-Linux                    10 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -126,7 +126,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 03:50:02 UTC
+ Last Updated on 15/04/2026 03:48:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
