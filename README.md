@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-9.72%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -93,24 +93,24 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        5 hrs 28 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
-Other                    4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+C                        5 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.42 % 
+Other                    4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.35 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Fee5_CMake               7 hrs 8 mins        ███████████████░░░░░░░░░░   58.96 % 
-CIMC_2026                3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-DAC                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-fat_fs                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-grok_search              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Fee5_CMake               7 hrs 8 mins        ████████████████░░░░░░░░░   64.68 % 
+CIMC_2026                2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+DAC                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+fat_fs                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+grok_search              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 💻 操作系统: 
-Linux                    12 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -126,7 +126,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 03:52:23 UTC
+ Last Updated on 18/04/2026 03:37:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
