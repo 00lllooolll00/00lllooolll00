@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-9.74%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -93,25 +93,25 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        19 hrs 2 mins       █████████████████████░░░░   82.60 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-CMake                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Makefile                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+C                        9 hrs 20 mins       ██████████████████░░░░░░░   73.69 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+CMake                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Makefile                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 编辑器: 
-VS Code                  22 hrs              ████████████████████████░   95.51 % 
-Unknown Editor           1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+VS Code                  11 hrs 39 mins      ███████████████████████░░   91.84 % 
+Unknown Editor           1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 
 🐱‍💻 项目: 
-Fee5_CMake               12 hrs 16 mins      █████████████░░░░░░░░░░░░   53.28 % 
-fee6_cmake               4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Study                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-esp32s3_main             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-max30102                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+fee6_cmake               4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+Study                    1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Fee5_CMake               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+esp32s3_main             1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+max30102                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 操作系统: 
-Linux                    23 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -127,7 +127,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2026 03:40:38 UTC
+ Last Updated on 26/04/2026 04:03:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
