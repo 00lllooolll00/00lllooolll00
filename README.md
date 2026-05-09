@@ -62,28 +62,28 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-9.95%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-10.87%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-🌆 白天                     417 commits         ████████░░░░░░░░░░░░░░░░░   30.22 % 
-🌃 傍晚                     701 commits         █████████████░░░░░░░░░░░░   50.80 % 
-🌙 晚上                     129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+🌞 早晨                     153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+🌆 白天                     434 commits         ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+🌃 傍晚                     787 commits         █████████████░░░░░░░░░░░░   52.19 % 
+🌙 晚上                     134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-星期二                      258 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-星期三                      177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-星期四                      189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-星期五                      235 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-星期六                      171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-星期日                      203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+星期一                      151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+星期二                      298 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+星期三                      203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+星期四                      198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+星期五                      261 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+星期六                      184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+星期日                      213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 
 
@@ -93,40 +93,40 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        9 hrs 18 mins       █████████████████████░░░░   83.01 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-CMake                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+C                        9 hrs 14 mins       █████████████████████░░░░   83.20 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+CMake                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 54 mins       ██████████████████░░░░░░░   70.54 % 
-Unknown Editor           3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+VS Code                  7 hrs 47 mins       ██████████████████░░░░░░░   70.25 % 
+Unknown Editor           3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 
 🐱‍💻 项目: 
-ESDC_ESP32S3             6 hrs 57 mins       ████████████████░░░░░░░░░   62.08 % 
-1，标准例程-IDF(v5.3.x)       4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
+ESDC_ESP32S3             6 hrs 51 mins       ███████████████░░░░░░░░░░   61.71 % 
+1，标准例程-IDF(v5.3.x)       4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
 01_WiFi_SCAN             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 esp-idf                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 操作系统: 
-Linux                    11 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
 
 ```text
-C                        10 repos            █████████████████░░░░░░░░   66.67 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Tree-sitter Query        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C                        11 repos            █████████████████░░░░░░░░   68.75 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Tree-sitter Query        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 08/05/2026 03:59:31 UTC
+ Last Updated on 09/05/2026 04:04:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
