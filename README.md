@@ -62,7 +62,57 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2050%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-18.54%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+
+**我是夜猫 🦉** 
+
+```text
+🌞 早晨                     184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+🌆 白天                     525 commits         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+🌃 傍晚                     900 commits         █████████████░░░░░░░░░░░░   50.99 % 
+🌙 晚上                     156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+```
+📅 **星期二 时的我最有干劲** 
+
+```text
+星期一                      182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+星期二                      315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+星期三                      247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+星期四                      248 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+星期五                      289 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+星期六                      215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+星期日                      269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+C                        5 hrs 37 mins       ██████████████████░░░░░░░   70.21 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+CMake                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+
+🔥 编辑器: 
+VS Code                  6 hrs 57 mins       ██████████████████████░░░   86.71 % 
+Unknown Editor           1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+
+🐱‍💻 项目: 
+ESDC_ESP32S3             3 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.92 % 
+Code                     2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+GD30AD3344_EVB_DemoSuites1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+lvgl_simulator           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+
+💻 操作系统: 
+Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
+```
 
 **我最常使用 C** 
 
@@ -77,7 +127,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 04:35:58 UTC
+ Last Updated on 16/05/2026 04:09:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
