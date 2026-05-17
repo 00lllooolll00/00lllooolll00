@@ -93,25 +93,25 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        5 hrs 37 mins       ██████████████████░░░░░░░   70.21 % 
-Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-CMake                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+C                        6 hrs 19 mins       ██████████████████░░░░░░░   70.76 % 
+Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+CMake                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 57 mins       ██████████████████████░░░   86.71 % 
-Unknown Editor           1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+VS Code                  6 hrs 31 mins       ██████████████████░░░░░░░   72.86 % 
+Unknown Editor           2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
 
 🐱‍💻 项目: 
-ESDC_ESP32S3             3 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.92 % 
-Code                     2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-GD30AD3344_EVB_DemoSuites1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-lvgl_simulator           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+ESDC_ESP32S3             3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
+Code                     3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+GD30AD3344_EVB_DemoSuites1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+lvgl_simulator           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 操作系统: 
-Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    8 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -127,7 +127,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 04:09:50 UTC
+ Last Updated on 17/05/2026 04:39:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
