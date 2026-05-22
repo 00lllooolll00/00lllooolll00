@@ -62,8 +62,6 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2024%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-18.54%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
@@ -93,25 +91,25 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        14 hrs 9 mins       ███████████████████░░░░░░   75.14 % 
-Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-CMake                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Makefile                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+C                        9 hrs 47 mins       ████████████████████░░░░░   78.75 % 
+Markdown                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Makefile                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Objective-C              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 1 min        ███████████████░░░░░░░░░░   58.53 % 
-Claude Code              7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
+Claude Code              7 hrs 1 min         ██████████████░░░░░░░░░░░   56.42 % 
+VS Code                  5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.58 % 
 
 🐱‍💻 项目: 
-Code                     7 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
-ESDC_ESP32S3             5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-GCC                      3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-fee6_cmake               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Code                     5 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.21 % 
+GCC                      3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+ESDC_ESP32S3             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+fee6_cmake               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Fee7                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 操作系统: 
-Linux                    18 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -127,7 +125,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 04:54:03 UTC
+ Last Updated on 22/05/2026 04:45:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
