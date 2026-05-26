@@ -93,25 +93,16 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        4 hrs 56 mins       ████████████████████░░░░░   78.05 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Makefile                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Objective-C              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+C                        5 mins              █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-Claude Code              3 hrs 43 mins       ███████████████░░░░░░░░░░   58.68 % 
-VS Code                  2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-GCC                      3 hrs 58 mins       ████████████████░░░░░░░░░   62.77 % 
-Code                     1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Fee7                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-fee6_cmake               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-ESDC_ESP32S3             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+ESDC_ESP32S3             5 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    6 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -127,7 +118,7 @@ Tree-sitter Query        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 05:06:08 UTC
+ Last Updated on 26/05/2026 04:45:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
