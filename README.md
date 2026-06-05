@@ -93,25 +93,25 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        2 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.61 % 
-CMake                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Objective-C              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+C                        1 hr 19 mins        ██████████████████░░░░░░░   72.77 % 
+CMake                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 编辑器: 
-Claude Code              3 hrs 46 mins       ████████████████████░░░░░   78.54 % 
-VS Code                  1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Claude Code              58 mins             █████████████░░░░░░░░░░░░   53.11 % 
+VS Code                  51 mins             ████████████░░░░░░░░░░░░░   46.89 % 
 
 🐱‍💻 项目: 
-ek_utils                 2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.25 % 
-Code                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-ek_utils_test            33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-EK                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-System_clock_switch      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+EK                       25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+System_clock_switch      23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+ESDC_ESP32S3             23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+ek_utils                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+ek_utils_test            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 
 💻 操作系统: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -127,7 +127,7 @@ Tree-sitter Query        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 05:23:16 UTC
+ Last Updated on 05/06/2026 04:58:14 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
