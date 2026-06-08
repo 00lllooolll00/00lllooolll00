@@ -62,6 +62,8 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%208%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-21.89%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
@@ -91,22 +93,21 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        31 mins             ████████████████████████░   95.57 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+C                        3 mins              ██████████████████░░░░░░░   72.56 % 
+Git Config               0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Objective-C              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 🔥 编辑器: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-EK                       25 mins             ███████████████████░░░░░░   76.17 % 
-Bootloader               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-EmbeddedKit              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-ek_utils                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-ek_utils_test            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Bootloader               2 mins              ████████████░░░░░░░░░░░░░   47.83 % 
+ek_utils                 2 mins              ██████████░░░░░░░░░░░░░░░   41.46 % 
+ek_utils_test            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+APP_V2                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 操作系统: 
-Linux                    32 mins             █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C** 
@@ -122,7 +123,7 @@ Tree-sitter Query        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 05:08:00 UTC
+ Last Updated on 08/06/2026 05:13:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
