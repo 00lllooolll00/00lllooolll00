@@ -93,21 +93,16 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        3 mins              ██████████████████░░░░░░░   72.56 % 
-Git Config               0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Objective-C              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-Bootloader               2 mins              ████████████░░░░░░░░░░░░░   47.83 % 
-ek_utils                 2 mins              ██████████░░░░░░░░░░░░░░░   41.46 % 
-ek_utils_test            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-APP_V2                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 **我最常使用 C** 
@@ -123,7 +118,7 @@ Tree-sitter Query        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 05:05:01 UTC
+ Last Updated on 14/06/2026 05:16:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
