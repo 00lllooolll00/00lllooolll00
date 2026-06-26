@@ -93,17 +93,16 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     10 mins             ██████████████░░░░░░░░░░░   55.01 % 
-Other                    8 mins              ███████████░░░░░░░░░░░░░░   44.99 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-ESDC_ESP32S3             19 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 **我最常使用 C** 
@@ -119,7 +118,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2026 04:47:07 UTC
+ Last Updated on 26/06/2026 04:50:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
