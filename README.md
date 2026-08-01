@@ -62,7 +62,7 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2037%20mins-blue?style=flat)
 
@@ -95,18 +95,20 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C++                      1 hr 21 mins        ████████████████████████░   97.11 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+C++                      2 hrs 37 mins       ████████████████████░░░░░   78.76 % 
+C                        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Kconfig                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Source                   1 hr 24 mins        █████████████████████████   100.00 % 
+Source                   3 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +130,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 04:01:45 UTC
+ Last Updated on 01/08/2026 04:03:53 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
