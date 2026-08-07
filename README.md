@@ -62,75 +62,22 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2056%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2037%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-27.36%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
-
-**我是夜猫 🦉** 
-
-```text
-🌞 早晨                     247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-🌆 白天                     758 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌃 傍晚                     1183 commits        █████████████░░░░░░░░░░░░   50.06 % 
-🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-```
-📅 **星期三 时的我最有干劲** 
-
-```text
-星期一                      217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-星期二                      406 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-星期三                      424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-星期四                      339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-星期五                      343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-星期六                      306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-星期日                      328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-C++                      2 hrs 37 mins       ████████████████████░░░░░   78.76 % 
-C                        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Kconfig                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-🔥 编辑器: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 项目: 
-Source                   3 hrs 19 mins       █████████████████████████   100.00 % 
-
-💻 操作系统: 
-Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-27.37%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我最常使用 C** 
 
 ```text
-C                        13 repos            ███████████████░░░░░░░░░░   59.09 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C                        14 repos            ███████████████░░░░░░░░░░   60.87 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 06/08/2026 03:50:33 UTC
+ Last Updated on 07/08/2026 03:30:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
