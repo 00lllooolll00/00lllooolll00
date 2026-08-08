@@ -62,7 +62,56 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-27.37%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+
+**我是夜猫 🦉** 
+
+```text
+🌞 早晨                     247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+🌆 白天                     758 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌃 傍晚                     1187 commits        █████████████░░░░░░░░░░░░   50.15 % 
+🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+```
+📅 **星期三 时的我最有干劲** 
+
+```text
+星期一                      217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+星期二                      406 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+星期三                      424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+星期四                      343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+星期五                      343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+星期六                      306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+星期日                      328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+本周没有记录到任何活动
+
+🔥 编辑器: 
+本周没有记录到任何活动
+
+🐱‍💻 项目: 
+本周没有记录到任何活动
+
+💻 操作系统: 
+本周没有记录到任何活动
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **我最常使用 C** 
 
@@ -77,7 +126,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 03:30:09 UTC
+ Last Updated on 08/08/2026 02:29:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
