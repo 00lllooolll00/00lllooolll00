@@ -71,21 +71,21 @@ Developer_t developer = {
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌆 白天                     826 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌃 傍晚                     1199 commits        ████████████░░░░░░░░░░░░░   48.52 % 
-🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌞 早晨                     287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+🌆 白天                     852 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌃 傍晚                     1202 commits        ████████████░░░░░░░░░░░░░   47.77 % 
+🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-星期二                      452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-星期三                      426 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-星期四                      357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-星期五                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-星期六                      307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-星期日                      329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+星期一                      237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+星期二                      452 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+星期三                      439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+星期四                      389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+星期五                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+星期六                      307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+星期日                      329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 ```
 
 
@@ -95,22 +95,49 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Lua                      0 secs              █████████████████████████   100.00 % 
+C                        8 hrs 9 mins        ███████████████░░░░░░░░░░   60.53 % 
+CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Scheme                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 编辑器: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  8 hrs 55 mins       █████████████████░░░░░░░░   66.12 % 
+OMP                      4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
 
 🐱‍💻 项目: 
-Source                   0 secs              █████████████████████████   100.00 % 
+maplrs                   10 hrs 28 mins      ███████████████████░░░░░░   77.73 % 
+esp-idf                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+inav                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+mbedtls                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 操作系统: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    13 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 hrs 1 min (96.56%)
+
+✍️ 5,835 lines written by AI, 16 lines written by hand (99.73% AI-written)
+
+🔤 40,386,840 Input Tokens, 176,349 Output Tokens
+
+💵 $94.94 Estimated AI Cost This Week
+
+🧠 367 AI Sessions, 121 AI Prompts
+
+OMP                      5,835 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.73% of written lines came from AI
+📝 Concise Prompter — average 62 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **我最常使用 C** 
@@ -126,7 +153,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 02:10:16 UTC
+ Last Updated on 27/08/2026 10:10:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
