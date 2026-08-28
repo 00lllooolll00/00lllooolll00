@@ -62,30 +62,30 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.00%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.01%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-🌆 白天                     852 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
-🌃 傍晚                     1202 commits        ████████████░░░░░░░░░░░░░   47.77 % 
-🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+🌞 早晨                     288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+🌆 白天                     861 commits         █████████░░░░░░░░░░░░░░░░   34.02 % 
+🌃 傍晚                     1207 commits        ████████████░░░░░░░░░░░░░   47.69 % 
+🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-星期二                      452 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-星期三                      439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-星期四                      389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-星期五                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-星期六                      307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-星期日                      329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+星期一                      237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+星期二                      452 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+星期三                      439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+星期四                      394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+星期五                      373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+星期六                      307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+星期日                      329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 
@@ -95,31 +95,31 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        8 hrs 9 mins        ███████████████░░░░░░░░░░   60.53 % 
-CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Scheme                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+C                        8 hrs 9 mins        ███████████████░░░░░░░░░░   60.63 % 
+CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Scheme                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 55 mins       █████████████████░░░░░░░░   66.12 % 
-OMP                      4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+VS Code                  8 hrs 53 mins       █████████████████░░░░░░░░   66.07 % 
+OMP                      4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
 
 🐱‍💻 项目: 
-maplrs                   10 hrs 28 mins      ███████████████████░░░░░░   77.73 % 
-esp-idf                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-inav                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-mbedtls                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+maplrs                   10 hrs 28 mins      ███████████████████░░░░░░   77.85 % 
+esp-idf                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+inav                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+mbedtls                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 💻 操作系统: 
-Linux                    13 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 1 min (96.56%)
+⏱ AI Coding Time: 12 hrs 59 mins (96.55%)
 
 ✍️ 5,835 lines written by AI, 16 lines written by hand (99.73% AI-written)
 
@@ -127,7 +127,7 @@ Linux                    13 hrs 29 mins      ███████████�
 
 💵 $94.94 Estimated AI Cost This Week
 
-🧠 367 AI Sessions, 121 AI Prompts
+🧠 365 AI Sessions, 121 AI Prompts
 
 OMP                      5,835 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -153,7 +153,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 10:10:06 UTC
+ Last Updated on 28/08/2026 11:41:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
