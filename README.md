@@ -95,49 +95,49 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        6 hrs 12 mins       ███████████████░░░░░░░░░░   59.20 % 
-Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Scheme                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-CMake                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Makefile                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+C                        5 hrs 37 mins       ███████████████░░░░░░░░░░   58.87 % 
+Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Scheme                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+CMake                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Makefile                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 30 mins       ████████████████░░░░░░░░░   62.15 % 
-OMP                      3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
+VS Code                  5 hrs 45 mins       ███████████████░░░░░░░░░░   60.24 % 
+OMP                      3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.76 % 
 
 🐱‍💻 项目: 
-maplrs                   7 hrs 59 mins       ███████████████████░░░░░░   76.31 % 
-Unknown Project          44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-esp-idf                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-inav                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-tmp                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+maplrs                   7 hrs 5 mins        ███████████████████░░░░░░   74.34 % 
+Unknown Project          44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+esp-idf                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+inav                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+tmp                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 操作系统: 
-Linux                    10 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (95.63%)
+⏱ AI Coding Time: 9 hrs 5 mins (95.2%)
 
-✍️ 5,178 lines written by AI, 16 lines written by hand (99.69% AI-written)
+✍️ 5,033 lines written by AI, 16 lines written by hand (99.68% AI-written)
 
-🔤 35,003,138 Input Tokens, 123,781 Output Tokens
+🔤 32,438,032 Input Tokens, 102,323 Output Tokens
 
-💵 $80.51 Estimated AI Cost This Week
+💵 $74.63 Estimated AI Cost This Week
 
-🧠 291 AI Sessions, 111 AI Prompts
+🧠 261 AI Sessions, 95 AI Prompts
 
-OMP                      5,178 lines         █████████████████████████   100.00 % 
+OMP                      5,033 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
+🤖 AI-Driven — 99.68% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 **我最常使用 C** 
@@ -153,7 +153,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 07:19:52 UTC
+ Last Updated on 30/08/2026 05:43:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
