@@ -62,30 +62,30 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.01%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-🌆 白天                     872 commits         █████████░░░░░░░░░░░░░░░░   34.14 % 
-🌃 傍晚                     1216 commits        ████████████░░░░░░░░░░░░░   47.61 % 
-🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+🌞 早晨                     297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌆 白天                     872 commits         █████████░░░░░░░░░░░░░░░░   34.02 % 
+🌃 傍晚                     1219 commits        ████████████░░░░░░░░░░░░░   47.56 % 
+🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-星期二                      452 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-星期三                      439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-星期四                      394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-星期五                      375 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-星期六                      308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-星期日                      346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+星期一                      243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+星期二                      458 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+星期三                      439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+星期四                      394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+星期五                      375 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+星期六                      308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+星期日                      346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 
 
@@ -95,49 +95,49 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        4 hrs 45 mins       █████████████░░░░░░░░░░░░   51.06 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Scheme                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-CMake                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+C                        2 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+Scheme                   51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Makefile                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 33 mins       ███████████████░░░░░░░░░░   59.76 % 
-OMP                      3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+VS Code                  3 hrs 41 mins       ████████████████░░░░░░░░░   62.43 % 
+OMP                      2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
 
 🐱‍💻 项目: 
-maplrs                   6 hrs 13 mins       █████████████████░░░░░░░░   66.86 % 
-Unknown Project          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-tmp                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-esp-idf                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-inav                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+maplrs                   3 hrs 59 mins       █████████████████░░░░░░░░   67.55 % 
+Unknown Project          51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+tmp                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+mLRS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+helix-file-watcher       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 操作系统: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 50 mins (95.08%)
+⏱ AI Coding Time: 5 hrs 26 mins (92.25%)
 
-✍️ 3,957 lines written by AI, 17 lines written by hand (99.57% AI-written)
+✍️ 2,435 lines written by AI, 17 lines written by hand (99.31% AI-written)
 
-🔤 25,315,330 Input Tokens, 101,553 Output Tokens
+🔤 19,604,437 Input Tokens, 73,058 Output Tokens
 
-💵 $59.42 Estimated AI Cost This Week
+💵 $45.77 Estimated AI Cost This Week
 
-🧠 241 AI Sessions, 108 AI Prompts
+🧠 191 AI Sessions, 85 AI Prompts
 
-OMP                      3,957 lines         █████████████████████████   100.00 % 
+OMP                      2,435 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.57% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
+🤖 AI-Driven — 99.31% of written lines came from AI
+📝 Concise Prompter — average 64 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🚀 High AI Trust — 0.81% of changed lines were hand-edited
 ```
 
 **我最常使用 C** 
@@ -153,7 +153,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 05:59:37 UTC
+ Last Updated on 01/09/2026 05:32:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
