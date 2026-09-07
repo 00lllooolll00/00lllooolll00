@@ -71,21 +71,21 @@ Developer_t developer = {
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-🌆 白天                     896 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌃 傍晚                     1223 commits        ████████████░░░░░░░░░░░░░   46.98 % 
-🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+🌞 早晨                     323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌆 白天                     903 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
+🌃 傍晚                     1223 commits        ████████████░░░░░░░░░░░░░   46.61 % 
+🌙 晚上                     175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-星期二                      461 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-星期三                      445 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-星期四                      402 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-星期五                      387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-星期六                      319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-星期日                      346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+星期一                      257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+星期二                      461 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+星期三                      445 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+星期四                      402 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+星期五                      387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+星期六                      319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+星期日                      353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 ```
 
 
@@ -95,61 +95,38 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Text                     34 mins             ███████████████████████░░   91.35 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Scheme                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  24 mins             ████████████████░░░░░░░░░   64.21 % 
-OMP                      13 mins             █████████░░░░░░░░░░░░░░░░   35.79 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-tmp                      29 mins             ████████████████████░░░░░   78.17 % 
-Unknown Project          7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-omp-cache-optimizer      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-helix-with-plugin        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (100.0%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 752,885 Input Tokens, 14,057 Output Tokens
-
-💵 $3.99 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 14 AI Prompts
-
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 C** 
 
 ```text
-C                        15 repos            ███████████████░░░░░░░░░░   60.00 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C                        15 repos            ██████████████░░░░░░░░░░░   57.69 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Tree-sitter Query        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 06/09/2026 05:01:45 UTC
+ Last Updated on 07/09/2026 05:08:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
