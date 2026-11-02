@@ -71,21 +71,21 @@ Developer_t developer = {
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     1116 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌆 白天                     2314 commits        ███████████░░░░░░░░░░░░░░   42.33 % 
-🌃 傍晚                     1847 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
-🌙 晚上                     190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌞 早晨                     1122 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌆 白天                     2321 commits        ███████████░░░░░░░░░░░░░░   42.35 % 
+🌃 傍晚                     1847 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
+🌙 晚上                     190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-星期二                      1113 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-星期三                      839 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-星期四                      878 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-星期五                      745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-星期六                      645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-星期日                      611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+星期一                      649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+星期二                      1113 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+星期三                      839 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+星期四                      878 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+星期五                      745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+星期六                      645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+星期日                      611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 
@@ -95,39 +95,39 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    5 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.59 % 
-C                        3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Markdown                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-CMake                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Other                    3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
+C                        3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+CMake                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+C++                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 编辑器: 
-OMP                      12 hrs 5 mins       ██████████████████████░░░   86.47 % 
-VS Code                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+OMP                      9 hrs 52 mins       █████████████████████░░░░   85.55 % 
+VS Code                  1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 
 🐱‍💻 项目: 
-ek_utils_test            8 hrs 41 mins       ████████████████░░░░░░░░░   62.23 % 
-ek_utils                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-maplrs                   2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-bayckrc_qgroundcontrol   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-tmp                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+ek_utils_test            6 hrs 50 mins       ███████████████░░░░░░░░░░   59.28 % 
+ek_utils                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+maplrs                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+bayckrc_qgroundcontrol   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+inav                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 操作系统: 
-Linux                    13 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 32 mins (96.92%)
+⏱ AI Coding Time: 11 hrs 6 mins (96.27%)
 
 ✍️ 37 lines written by AI, 56 lines written by hand (39.78% AI-written)
 
-🔤 534,180,393 Input Tokens, 3,172,894 Output Tokens
+🔤 445,268,236 Input Tokens, 2,014,367 Output Tokens
 
-💵 $3214.67 Estimated AI Cost This Week
+💵 $2677.16 Estimated AI Cost This Week
 
-🧠 2853 AI Sessions, 171 AI Prompts
+🧠 1703 AI Sessions, 135 AI Prompts
 
 OMP                      37 lines            █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -135,7 +135,7 @@ Jev                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 39.78% of written lines came from AI
-📄 Detailed Prompter — average 658 characters per prompt
+📄 Detailed Prompter — average 699 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 65.09% of changed lines were hand-edited
 ```
@@ -153,7 +153,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 06:45:37 UTC
+ Last Updated on 02/11/2026 07:00:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
