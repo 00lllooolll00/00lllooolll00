@@ -64,7 +64,7 @@ Developer_t developer = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-30.31%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -95,50 +95,51 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        12 hrs 45 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
-Other                    11 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.73 % 
-S                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-C++                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+C                        14 hrs 16 mins      ████████████░░░░░░░░░░░░░   46.68 % 
+Other                    8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+S                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 编辑器: 
-Helix                    28 hrs 35 mins      █████████████████████████   99.85 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Helix                    30 hrs 33 mins      █████████████████████████   99.86 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 项目: 
-ek_platform              22 hrs 45 mins      ████████████████████░░░░░   79.49 % 
-maplrs                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-ek_platform_gd32f470     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-fcitx5-wetypex           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-threadx                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+ek_platform              16 hrs 40 mins      ██████████████░░░░░░░░░░░   54.51 % 
+wifi_test                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+ek_platform_gd32f470     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+maplrs                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+babe                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 操作系统: 
-Linux                    28 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 41 mins (96.71%)
+⏱ AI Coding Time: 27 hrs 58 mins (91.44%)
 
-✍️ 158 lines written by AI, 94 lines written by hand (62.7% AI-written)
+✍️ 350 lines written by AI, 267 lines written by hand (56.73% AI-written)
 
-🔤 669,263,134 Input Tokens, 3,454,134 Output Tokens
+🔤 598,228,371 Input Tokens, 3,354,051 Output Tokens
 
-💵 $3974.48 Estimated AI Cost This Week
+💵 $3507.92 Estimated AI Cost This Week
 
-🧠 2881 AI Sessions, 358 AI Prompts
+🧠 2740 AI Sessions, 430 AI Prompts
 
-DeepSeek                 110 lines           █████████████████░░░░░░░░   69.62 % 
-Haiku                    48 lines            ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Jev                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 242 lines           █████████████████░░░░░░░░   69.14 % 
+Haiku                    108 lines           ████████░░░░░░░░░░░░░░░░░   30.86 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Jev                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.7% of written lines came from AI
-📝 Concise Prompter — average 230 characters per prompt
+⚖️ Balanced with AI — 56.73% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 72.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.18% of changed lines were hand-edited
 ```
 
 **我最常使用 C** 
@@ -154,7 +155,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 07:19:41 UTC
+ Last Updated on 06/11/2026 07:19:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
