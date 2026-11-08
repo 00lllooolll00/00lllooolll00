@@ -95,49 +95,48 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        14 hrs 16 mins      ████████████░░░░░░░░░░░░░   46.68 % 
-Other                    8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-S                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+C                        11 hrs 2 mins       ████████████░░░░░░░░░░░░░   49.00 % 
+Other                    4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+S                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 编辑器: 
-Helix                    30 hrs 33 mins      █████████████████████████   99.86 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Helix                    22 hrs 29 mins      █████████████████████████   99.82 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 项目: 
-ek_platform              16 hrs 40 mins      ██████████████░░░░░░░░░░░   54.51 % 
-wifi_test                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-ek_platform_gd32f470     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-maplrs                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-babe                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+ek_platform              10 hrs 29 mins      ████████████░░░░░░░░░░░░░   46.59 % 
+wifi_test                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+ek_platform_gd32f470     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+babe                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Targets                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 操作系统: 
-Linux                    30 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 58 mins (91.44%)
+⏱ AI Coding Time: 19 hrs 54 mins (88.38%)
 
 ✍️ 350 lines written by AI, 267 lines written by hand (56.73% AI-written)
 
-🔤 598,228,371 Input Tokens, 3,354,051 Output Tokens
+🔤 464,881,318 Input Tokens, 2,597,628 Output Tokens
 
-💵 $3507.92 Estimated AI Cost This Week
+💵 $2651.42 Estimated AI Cost This Week
 
-🧠 2740 AI Sessions, 430 AI Prompts
+🧠 2115 AI Sessions, 328 AI Prompts
 
 DeepSeek                 242 lines           █████████████████░░░░░░░░   69.14 % 
 Haiku                    108 lines           ████████░░░░░░░░░░░░░░░░░   30.86 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Jev                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 56.73% of written lines came from AI
-📝 Concise Prompter — average 116 characters per prompt
+📝 Concise Prompter — average 80 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 64.18% of changed lines were hand-edited
 ```
@@ -155,7 +154,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026 06:31:10 UTC
+ Last Updated on 08/11/2026 06:40:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
