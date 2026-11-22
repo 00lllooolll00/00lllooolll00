@@ -62,30 +62,30 @@ Developer_t developer = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-39.05%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     1231 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 白天                     2530 commits        ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌃 傍晚                     2123 commits        █████████░░░░░░░░░░░░░░░░   34.94 % 
-🌙 晚上                     192 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+🌞 早晨                     1238 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌆 白天                     2530 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
+🌃 傍晚                     2129 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌙 晚上                     200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-星期二                      1206 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-星期三                      901 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-星期四                      960 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-星期五                      790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-星期六                      712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-星期日                      710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+星期一                      797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+星期二                      1206 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+星期三                      901 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+星期四                      960 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+星期五                      792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+星期六                      716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+星期日                      725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 
@@ -95,52 +95,53 @@ Developer_t developer = {
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        28 hrs 39 mins      ████████████████░░░░░░░░░   62.41 % 
-Other                    7 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Markdown                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Makefile                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+C                        24 hrs 10 mins      ███████████████░░░░░░░░░░   59.53 % 
+Other                    8 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Makefile                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 编辑器: 
-Helix                    45 hrs 23 mins      █████████████████████████   98.88 % 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-OMP                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Helix                    38 hrs 38 mins      ████████████████████████░   95.15 % 
+Antigravity              1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+OMP                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 项目: 
-ek_platform              23 hrs 8 mins       █████████████░░░░░░░░░░░░   50.40 % 
-maplrs                   12 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-ek_platform_gd32f470     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-omp-antigravity-acp-provi1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-tmp                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+ek_platform              17 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.04 % 
+maplrs                   12 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   30.26 % 
+ek_platform_gd32f470     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+N1netyNine99             1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+tmp                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 操作系统: 
-Linux                    45 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    40 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 29 mins (66.41%)
+⏱ AI Coding Time: 28 hrs 54 mins (71.17%)
 
-✍️ 6,504 lines written by AI, 3,003 lines written by hand (68.41% AI-written)
+✍️ 4,752 lines written by AI, 2,014 lines written by hand (70.23% AI-written)
 
-🔤 1,157,666,275 Input Tokens, 5,767,154 Output Tokens
+🔤 1,054,786,181 Input Tokens, 4,668,437 Output Tokens
 
-💵 $5631.44 Estimated AI Cost This Week
+💵 $5165.00 Estimated AI Cost This Week
 
-🧠 5760 AI Sessions, 754 AI Prompts
+🧠 5195 AI Sessions, 663 AI Prompts
 
-Gemini                   3,563 lines         ████████████████░░░░░░░░░   63.66 % 
-GPT                      1,424 lines         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-DeepSeek                 298 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Jev                      254 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Tencent Hy               58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Gemini                   2,840 lines         ███████████████░░░░░░░░░░   59.76 % 
+GPT                      1,424 lines         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Jev                      254 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+DeepSeek                 176 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Tencent Hy               58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.41% of written lines came from AI
-📝 Concise Prompter — average 193 characters per prompt
+🤖 AI-Driven — 70.23% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 42.45% of changed lines were hand-edited
+🚀 High AI Trust — 40.57% of changed lines were hand-edited
 ```
 
 **我最常使用 C** 
@@ -156,7 +157,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 07:57:30 UTC
+ Last Updated on 22/11/2026 07:39:56 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
